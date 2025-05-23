@@ -1,6 +1,6 @@
 # 🖥️ Senior IT Technician
 **Infrastructure Support | Troubleshooting | Automation**  
-📍 Durban | ✉️ clement_shezi@yahoo.com | 🔗 [LinkedIn](https://www.linkedin.com/in/clement-shezi-2595669a/)  
+📍 Durban | ✉️ clement_shezi@yahoo.com | 🔗 [Clement Shezi](https://www.linkedin.com/in/clement-shezi-2595669a/)  
 
 ---
 
@@ -27,38 +27,25 @@
 ---
 
 ## 💼 **Featured Projects**
-### 1. **Automated User Onboarding/Offboarding**  
-   - PowerShell script syncing **AD ↔ Azure AD ↔ M365** with HR databases.  
-   - **Impact**: Reduced manual work by 90%.  
-   - [![View Code](https://img.shields.io/badge/View_Code-GitHub-blue)](https://github.com/yourusername/auto-user-provisioning)  
-
-### 2. **Network Health Dashboard**  
-   - Python + Grafana real-time monitoring for latency, packet loss, and uptime.  
-   - **Tech**: SNMP, Telegraf, InfluxDB.  
-
-### 3. **Helpdesk Knowledge Base**  
-   - Internal wiki (Dokuwiki) with **FAQs & fixes** for common IT issues.  
 
 ---
 
 ## 📝 **Documentation & Guides**
-- 📄 [Deploying LAPS for Local Admin Password Security](https://github.com/yourusername/laps-guide)  
-- 📄 [Troubleshooting BSODs: Common Fixes](https://github.com/yourusername/bsod-guide)  
+  
 
 ---
 
 ## 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementShezi&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementShezi&layout=compact&theme=dark)  
 
 ---
 
 ## 📫 **Let’s Connect**
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
-- **Keybase/PGP**: [Encrypted Comm](https://keybase.io/yourusername)  
+- **Email**: [clement_shezi@yahoo.com](mailto:clement_shezi@yahoo.com)  
+- **LinkedIn**: [Clement Shezi](https://www.linkedin.com/in/clement-shezi-2595669a/)   
 
 ---
 
-![Banner](https://via.placeholder.com/1920x400.png?text=IT+Infrastructure+%7C+Systems+Administration+%7C+Automation)  
+![Banner]  
 *"Solving IT chaos—one ticket at a time."*  
